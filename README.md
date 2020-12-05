@@ -7,7 +7,7 @@
 +exec autoexec.cfg
 ```
 
-Also, you can specify additional launch options which are slightly impoves gameplay:
+Also, you can specify additional launch options which are slightly improves gameplay:
 ```
 +mat_disable_fancy_blending 1 +cl_forcepreload 1 -high -nohltv -novid -nojoy -limitvsconst -forcenovsync
 ```
