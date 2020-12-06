@@ -6,6 +6,7 @@
 ```
 +exec autoexec.cfg
 ```
+![launch options](/set-launch-options.png)
 
 Also, you can specify additional launch options which are slightly improve gameplay:
 ```
